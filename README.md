@@ -4,8 +4,13 @@ An interactive Tableau dashboard that visualizes the impact of artificial intell
 Features
 
 📈 Revenue and Market Value Trends: Analyze AI software revenue growth and global AI market value over time.
+
 🌐 AI Adoption Insights: Visualize the percentage of organizations using AI and those planning implementation.
+
 👷 Job Market Analysis: Understand AI's dual impact on job creation and elimination globally and within the U.S.
+
 🏥 AI in Healthcare: Explore AI's contribution to medical diagnostics and healthcare innovation.
+
 🛠️ Automation Risks: Identify industries and jobs at high risk of automation due to AI technologies.
+
 🗣️ Voice Assistants & Productivity: Insights into how digital assistants drive adoption and employee productivity.
